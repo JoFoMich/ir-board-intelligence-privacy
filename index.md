@@ -1,6 +1,6 @@
 # Privacy Policy for Investor Relations Board Intelligence Agent
 
-**Effective Date:** April 25, 2026
+**Effective Date:** January 1, 2026
 
 This Privacy Policy describes how the Investor Relations Board Intelligence Agent uses information when interacting with the connected IR wrapper action.
 
@@ -10,7 +10,7 @@ The Investor Relations Board Intelligence Agent helps users analyze public compa
 
 ## 2. Information Sent to the Action
 
-The GPT may send user-provided inputs including public company tickers, company names, peer company tickers, requested analysis type, and related prompts needed to complete the user’s request.
+The GPT may send user-provided inputs to the connected IR wrapper, including public company tickers, company names, peer company tickers, requested analysis type, and related prompts needed to complete the user’s request.
 
 Users should not submit confidential, personal, material nonpublic, or sensitive information.
 
